@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm FullStack Developer 👋
 
 Welcome to my GitHub profile! I'm Somya Gupta, a passionate developer eager to learn and grow in the tech world. Here's a bit about me:
 
