@@ -1,14 +1,35 @@
-## Hi there, I'm FullStack Developer 👋
+## Hi there, I'm Somya Gupta! 👋
 
-Welcome to my GitHub profile! I'm Somya Gupta, a passionate developer eager to learn and grow in the tech world. Here's a bit about me:
+### 🚀 Full Stack Developer | Tech Enthusiast
 
-- 🔭 I’m currently working on building projects that enhance user experience and solve real-world problems.
-- 🌱 I’m currently learning more about web development technologies and data structure.
-- 👯 I’m looking to collaborate on exciting projects, especially in the areas of web development.
-- 🤔 I’m looking for help with deepening my understanding of backend development.
-- 💬 Ask me about my projects, my learning journey, or any tech-related questions!
-- 📫 How to reach me: [somyagupta052003@gmail.com]
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love exploring new technologies and have a keen interest in web devlopment!
+Welcome to my GitHub profile! I'm a passionate developer who loves building projects that enhance user experience and solve real-world problems.
 
-Thanks for stopping by! Let's connect and create something amazing together! 🚀
+---
+
+### 🌟 About Me
+- 🔭 **Currently Working On:** Exciting projects that make a difference.
+- 🌱 **Currently Learning:** Web development technologies & Data Structures.
+- 👯 **Looking to Collaborate:** Open to working on innovative web development projects.
+- 🤔 **Seeking Help With:** Deepening my understanding of backend development.
+- 💬 **Ask Me About:** My projects, tech journey, or anything related to development!
+- 📫 **How to Reach Me:** [somyagupta052003@gmail.com](mailto:somyagupta052003@gmail.com)
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun Fact:** I love exploring new technologies and have a deep interest in web development!
+
+---
+
+### 🛠️ Tech Stack
+**Frontend:** React.js, Next.js, HTML, CSS, TailwindCSS, SCSS, JavaScript, TypeScript  
+**Backend:** Node.js, Express.js, MongoDB, PostgreSQL, SQL, PostgreSql 
+**Languages:** C, C++, Java  
+
+---
+
+### 📈 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somyagupta05&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somyagupta05&layout=compact&theme=radical)
+
+---
+
+### 🌎 Let's Connect & Build Something Amazing! 🚀
+
