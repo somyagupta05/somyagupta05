@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building proj
 ### 🛠️ Tech Stack
 **Frontend:** React.js, Next.js, HTML, CSS, TailwindCSS, SCSS, JavaScript, TypeScript  
 **Backend:** Node.js, Express.js, MongoDB, PostgreSQL, SQL 
+
 **Languages:** C, C++, Java  
 
 ---
